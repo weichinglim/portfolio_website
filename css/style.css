@@ -1231,7 +1231,7 @@
 
 	#banner {
 		background-attachment: scroll,						fixed;
-		background-color: #494d53;
+		background-color: #6b717a;
 		background-image: url("images/overlay.png"), url("../images/slide02.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						no-repeat;
