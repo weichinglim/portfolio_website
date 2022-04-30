@@ -42,7 +42,6 @@
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		color: #e0555a;
 		text-decoration: none;
-		border-bottom: dotted 1px;
 	}
 
 		a:hover {
@@ -183,6 +182,7 @@
 		font-size: 1.25em;
 		margin-top: -1em;
 		line-height: 1.75em;
+		text-decoration: none;
 	}
 
 	header h3 + p {
@@ -474,8 +474,7 @@
 	.image {
 		border-radius: 0.5em;
 		border: 0;
-		display: inline-block;
-		position: relative;
+
 	}
 
 		.image img {
@@ -485,9 +484,11 @@
 		}
 
 		.image.left {
-			float: left;
 			padding: 0 1.5em 1em 0;
 			top: 0.25em;
+			display: block;
+			position: relative;
+			
 		}
 
 		.image.right {
@@ -1231,12 +1232,12 @@
 	#banner {
 		background-attachment: scroll,						fixed;
 		background-color: #494d53;
-		background-image: url("images/overlay.png"), url("../images/banner.jpg");
+		background-image: url("images/overlay.png"), url("../images/slide02.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						no-repeat;
 		background-size: auto,						cover;
 		color: #d1d2d4;
-		padding: 16em 0;
+		padding: 3em 0;
 		position: relative;
 		text-align: center;
 	}
