@@ -5,3 +5,8 @@
 ![image](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
 Building a portfolio website linked to domain
+
+## What I Learned
+- Using HTML and CSS templates and Bootstrap 
+- Changing custom domains on Microsoft Azure
+- Linking Google Analytics to website
